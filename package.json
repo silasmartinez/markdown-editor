@@ -1,0 +1,22 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silasmartinez/markdown-editor.git"
+  },
+  "author": "Silas Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silasmartinez/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/silasmartinez/markdown-editor",
+  "dependencies": {
+    "showdown": "^1.0.0-alpha.2"
+  }
+}
